@@ -1,0 +1,4 @@
+name,email,phone,current_company,title
+Jane Doe,jane.doe@example.com,+1 415 555 2671,Acme Corp,Senior Engineer
+Alex Stone,alex.stone@example.com,,Northwind,Data Scientist
+Abhinav Khot,abhinav.khot@example.com,+1 212 555 0148,Contoso,Platform Engineer

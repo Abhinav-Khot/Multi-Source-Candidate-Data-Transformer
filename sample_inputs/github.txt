@@ -1,0 +1,3 @@
+# Demo GitHub manifest
+# Live GitHub enrichment for the demo folder.
+Abhinav-Khot, abhinav.khot@example.com
