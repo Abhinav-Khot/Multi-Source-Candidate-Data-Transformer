@@ -1,0 +1,704 @@
+[
+  {
+    "candidate_id": "email:abhinav.khot@example.com",
+    "education": [],
+    "emails": [
+      "abhinav.khot@example.com"
+    ],
+    "experience": [
+      {
+        "company": "Contoso",
+        "end": null,
+        "start": null,
+        "summary": null,
+        "title": "Platform Engineer"
+      },
+      {
+        "company": "Contoso",
+        "end": null,
+        "start": null,
+        "summary": null,
+        "title": "platform engineer"
+      }
+    ],
+    "full_name": "Abhinav Khot",
+    "headline": "CS Junior at the Indian Institute of Technology, Gandhinagar.",
+    "links": {
+      "github": "https://github.com/Abhinav-Khot",
+      "linkedin": null,
+      "other": [],
+      "portfolio": null
+    },
+    "location": {
+      "city": null,
+      "country": null,
+      "region": null
+    },
+    "overall_confidence": 0.8749,
+    "phones": [
+      "+12125550148"
+    ],
+    "provenance": [
+      {
+        "accepted": false,
+        "confidence": 0.55,
+        "field": "headline",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "platform engineer"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.55,
+        "field": "headline",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "platform engineer"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.8,
+        "field": "full_name",
+        "method": "name_cue",
+        "source": "notes",
+        "value_repr": "Abhinav Khot"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.95,
+        "field": "headline",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Platform Engineer"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "api",
+        "source": "github",
+        "value_repr": "Abhinav Khot"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "api",
+        "source": "github",
+        "value_repr": "Abhinav Khot"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.55,
+        "field": "experience",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "{company:Contoso,end:None,start:None,summary:None,title:platform engineer}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.65,
+        "field": "skills",
+        "method": "skills_keyword",
+        "source": "notes",
+        "value_repr": "{mapped:None,name:python,sources:[notes]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.7,
+        "field": "years_experience",
+        "method": "years_regex",
+        "source": "notes",
+        "value_repr": "8"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.8,
+        "field": "full_name",
+        "method": "name_cue",
+        "source": "notes",
+        "value_repr": "Abhinav Khot"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "headline",
+        "method": "api",
+        "source": "github",
+        "value_repr": "CS Junior at the Indian Institute of Technology, Gandhinagar."
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "headline",
+        "method": "api",
+        "source": "github",
+        "value_repr": "CS Junior at the Indian Institute of Technology, Gandhinagar."
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "headline",
+        "method": "api",
+        "source": "github",
+        "value_repr": "CS Junior at the Indian Institute of Technology, Gandhinagar."
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "links",
+        "method": "api",
+        "source": "github",
+        "value_repr": "{github:https://github.com/Abhinav-Khot,linkedin:None,other:[],portfolio:None}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:Assembly,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:C#,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:C,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:HTML,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:Java,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:JavaScript,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:Jupyter Notebook,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:OCaml,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:Python,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:SWIG,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.9,
+        "field": "skills",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "{mapped:None,name:TypeScript,sources:[github]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "emails",
+        "method": "email_regex",
+        "source": "notes",
+        "value_repr": "abhinav.khot@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "experience",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "{company:Contoso,end:None,start:None,summary:None,title:Platform Engineer}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "phones",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "+12125550148"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "emails",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "abhinav.khot@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "emails",
+        "method": "direct",
+        "source": "github",
+        "value_repr": "abhinav.khot@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "api",
+        "source": "github",
+        "value_repr": "Abhinav Khot"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Abhinav Khot"
+      }
+    ],
+    "skills": [
+      {
+        "confidence": 0.65,
+        "name": "python",
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "Assembly",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "C",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "C#",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "HTML",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "Java",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "JavaScript",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "Jupyter Notebook",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "OCaml",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "Python",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "SWIG",
+        "sources": [
+          "github"
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "name": "TypeScript",
+        "sources": [
+          "github"
+        ]
+      }
+    ],
+    "years_experience": 8
+  },
+  {
+    "candidate_id": "email:alex.stone@example.com",
+    "education": [],
+    "emails": [
+      "alex.stone@example.com"
+    ],
+    "experience": [
+      {
+        "company": "Northwind",
+        "end": null,
+        "start": null,
+        "summary": null,
+        "title": "Data Scientist"
+      },
+      {
+        "company": "Northwind",
+        "end": null,
+        "start": null,
+        "summary": null,
+        "title": "data scientist"
+      }
+    ],
+    "full_name": "Alex Stone",
+    "headline": "data scientist",
+    "links": {
+      "github": null,
+      "linkedin": null,
+      "other": [],
+      "portfolio": null
+    },
+    "location": {
+      "city": null,
+      "country": null,
+      "region": null
+    },
+    "overall_confidence": 0.8321,
+    "phones": [],
+    "provenance": [
+      {
+        "accepted": false,
+        "confidence": 0.7,
+        "field": "full_name",
+        "method": "name_cue",
+        "source": "notes",
+        "value_repr": "Alex Stone"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.95,
+        "field": "headline",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Data Scientist"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.55,
+        "field": "experience",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "{company:Northwind,end:None,start:None,summary:None,title:data scientist}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.55,
+        "field": "headline",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "data scientist"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.65,
+        "field": "skills",
+        "method": "skills_keyword",
+        "source": "notes",
+        "value_repr": "{mapped:None,name:javascript,sources:[notes]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.7,
+        "field": "years_experience",
+        "method": "years_regex",
+        "source": "notes",
+        "value_repr": "4"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.85,
+        "field": "emails",
+        "method": "email_regex",
+        "source": "notes",
+        "value_repr": "alex.stone@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "experience",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "{company:Northwind,end:None,start:None,summary:None,title:Data Scientist}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "headline",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Data Scientist"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "emails",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "alex.stone@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Alex Stone"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Alex Stone"
+      }
+    ],
+    "skills": [
+      {
+        "confidence": 0.65,
+        "name": "javascript",
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "years_experience": 4
+  },
+  {
+    "candidate_id": "email:jane.doe@example.com",
+    "education": [],
+    "emails": [
+      "jane.doe@example.com"
+    ],
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "end": null,
+        "start": null,
+        "summary": null,
+        "title": "Senior Engineer"
+      },
+      {
+        "company": "Acme Corp",
+        "end": null,
+        "start": null,
+        "summary": null,
+        "title": "senior engineer"
+      }
+    ],
+    "full_name": "Jane Doe",
+    "headline": "senior engineer",
+    "links": {
+      "github": null,
+      "linkedin": null,
+      "other": [],
+      "portfolio": null
+    },
+    "location": {
+      "city": null,
+      "country": null,
+      "region": null
+    },
+    "overall_confidence": 0.8046,
+    "phones": [
+      "+14155552671"
+    ],
+    "provenance": [
+      {
+        "accepted": false,
+        "confidence": 0.7,
+        "field": "full_name",
+        "method": "name_cue",
+        "source": "notes",
+        "value_repr": "Jane Doe"
+      },
+      {
+        "accepted": false,
+        "confidence": 0.95,
+        "field": "headline",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Senior Engineer"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.55,
+        "field": "experience",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "{company:Acme Corp,end:None,start:None,summary:None,title:senior engineer}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.55,
+        "field": "headline",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "senior engineer"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.55,
+        "field": "headline",
+        "method": "company_title_inferred",
+        "source": "notes",
+        "value_repr": "senior engineer"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.65,
+        "field": "skills",
+        "method": "skills_keyword",
+        "source": "notes",
+        "value_repr": "{mapped:None,name:go,sources:[notes]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.65,
+        "field": "skills",
+        "method": "skills_keyword",
+        "source": "notes",
+        "value_repr": "{mapped:None,name:python,sources:[notes]}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.7,
+        "field": "full_name",
+        "method": "name_cue",
+        "source": "notes",
+        "value_repr": "Jane Doe"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.7,
+        "field": "years_experience",
+        "method": "years_regex",
+        "source": "notes",
+        "value_repr": "6"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.85,
+        "field": "emails",
+        "method": "email_regex",
+        "source": "notes",
+        "value_repr": "jane.doe@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "experience",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "{company:Acme Corp,end:None,start:None,summary:None,title:Senior Engineer}"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.95,
+        "field": "phones",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "+14155552671"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "emails",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "jane.doe@example.com"
+      },
+      {
+        "accepted": true,
+        "confidence": 0.98,
+        "field": "full_name",
+        "method": "direct",
+        "source": "csv",
+        "value_repr": "Jane Doe"
+      }
+    ],
+    "skills": [
+      {
+        "confidence": 0.65,
+        "name": "go",
+        "sources": [
+          "notes"
+        ]
+      },
+      {
+        "confidence": 0.65,
+        "name": "python",
+        "sources": [
+          "notes"
+        ]
+      }
+    ],
+    "years_experience": 6
+  }
+]
